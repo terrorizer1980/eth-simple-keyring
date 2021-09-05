@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "eth-sig-util": "^3.0.1",
-    "ethereumjs-util": "^7.0.9",
+    "ethereumjs-util": "^7.1.0",
     "randombytes": "^2.1.0"
   },
   "devDependencies": {
